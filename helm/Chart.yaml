@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-customer-reference-data
+description: "BIAN Service Domain: Customer Reference Data (Maintain pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - maintain
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Shared Operations"
+  isb/asset-type: "Customer Reference Data"
+  isb/control-record: "Customer Reference Data Maintenance Agreement"
